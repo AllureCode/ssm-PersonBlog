@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm_project_aboutPersonalBlog:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c08f4a7a-31ce-471d-b258-0908751b440f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SSM_Example" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Java开发系列/Maven相关包/zip/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Java开发系列\Maven相关包\zip\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TkGvm3GHScbAC4DuMPUlgINmn3" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SSM_Case\SSM_Example\ssm_project_aboutPersonalBlog\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SSM_Case\SSM_Example\ssm_project_aboutPersonalBlog\src\main\webapp" />
+      <recent name="E:\SSM_Case\SSM_Example\ssm_project_aboutPersonalBlog\src\main\webapp\static" />
+      <recent name="E:\SSM_Case\SSM_Example\ssm_project_aboutPersonalBlog\src\main\resources\com\blog\mappers" />
+      <recent name="E:\SSM_Case\SSM_Example\ssm_project_aboutPersonalBlog\src\main\webapp\admin" />
+      <recent name="E:\SSM_Case\SSM_Example\ssm_project_aboutPersonalBlog\src\main\webapp\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.ssm_personalBlog">
+    <configuration name="DateTestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.DateTestDemo" />
+      <module name="ssm_project_aboutPersonalBlog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Encryption_MD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.blog.utils.Encryption_MD5" />
+      <module name="ssm_project_aboutPersonalBlog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blog.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.blog.controller.demo" />
+      <module name="ssm_project_aboutPersonalBlog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blog.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateUtil.formatDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm_project_aboutPersonalBlog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blog.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blog.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.blog.utils.DateUtil" />
+      <option name="METHOD_NAME" value="formatDate(java.util.Date,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ssm_personalBlog" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="ssm_project_aboutPersonalBlog:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ssm_project_aboutPersonalBlog_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SSM_Example" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54380" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm_project_aboutPersonalBlog:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DateTestDemo" />
+        <item itemvalue="JUnit.DateUtil.formatDate" />
+        <item itemvalue="Application.Encryption_MD5" />
+        <item itemvalue="Application.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c08f4a7a-31ce-471d-b258-0908751b440f" name="Default Changelist" comment="" />
+      <created>1573996912488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573996912488</updated>
+      <workItem from="1573996916255" duration="636000" />
+      <workItem from="1573997602191" duration="2454000" />
+      <workItem from="1574065137066" duration="5479000" />
+      <workItem from="1574075239601" duration="11957000" />
+      <workItem from="1574124599557" duration="3987000" />
+      <workItem from="1574128963498" duration="527000" />
+      <workItem from="1574166512654" duration="7506000" />
+      <workItem from="1574209628091" duration="8653000" />
+      <workItem from="1574230934850" duration="4458000" />
+      <workItem from="1574473847196" duration="145000" />
+      <workItem from="1574474053565" duration="2437000" />
+      <workItem from="1574729377143" duration="3964000" />
+      <workItem from="1574772401135" duration="659000" />
+      <workItem from="1574773621604" duration="11000" />
+      <workItem from="1574773766681" duration="62000" />
+      <workItem from="1574817921018" duration="24000" />
+      <workItem from="1574819614988" duration="687000" />
+      <workItem from="1574992130520" duration="52000" />
+      <workItem from="1574994166460" duration="144000" />
+      <workItem from="1574994460055" duration="299000" />
+      <workItem from="1574994828715" duration="57000" />
+      <workItem from="1575008427139" duration="7012000" />
+      <workItem from="1575073583953" duration="3310000" />
+      <workItem from="1575077859808" duration="18000" />
+      <workItem from="1575078002116" duration="19298000" />
+      <workItem from="1575104992842" duration="2811000" />
+      <workItem from="1575176516440" duration="9636000" />
+      <workItem from="1575441694982" duration="9115000" />
+      <workItem from="1575511034816" duration="4612000" />
+      <workItem from="1575520631827" duration="14842000" />
+      <workItem from="1575706549503" duration="5107000" />
+      <workItem from="1575772450831" duration="4976000" />
+      <workItem from="1576047593988" duration="9731000" />
+      <workItem from="1576584489125" duration="1496000" />
+      <workItem from="1576741601331" duration="414000" />
+      <workItem from="1576743902623" duration="355000" />
+      <workItem from="1576898563948" duration="622000" />
+      <workItem from="1577155553409" duration="26703000" />
+      <workItem from="1577195963551" duration="1305000" />
+      <workItem from="1577240347215" duration="25834000" />
+      <workItem from="1577318490219" duration="8555000" />
+      <workItem from="1577347678173" duration="5014000" />
+      <workItem from="1577353745363" duration="165000" />
+      <workItem from="1577354986390" duration="2684000" />
+      <workItem from="1577404103939" duration="5480000" />
+      <workItem from="1577423173126" duration="5822000" />
+      <workItem from="1577447452348" duration="80000" />
+      <workItem from="1577500422600" duration="1641000" />
+      <workItem from="1577949630643" duration="1883000" />
+      <workItem from="1578397162592" duration="751000" />
+      <workItem from="1579092278406" duration="2496000" />
+      <workItem from="1579242989506" duration="4865000" />
+      <workItem from="1579432006708" duration="32000" />
+      <workItem from="1579592699994" duration="127000" />
+      <workItem from="1580610064666" duration="3391000" />
+      <workItem from="1580882016449" duration="3780000" />
+      <workItem from="1580968640856" duration="6644000" />
+      <workItem from="1581141335120" duration="132000" />
+      <workItem from="1581298556882" duration="367000" />
+      <workItem from="1581312752101" duration="1951000" />
+      <workItem from="1581315930099" duration="8478000" />
+      <workItem from="1581749879763" duration="592000" />
+      <workItem from="1582006431795" duration="3074000" />
+      <workItem from="1582679148231" duration="195000" />
+      <workItem from="1582680518668" duration="417000" />
+      <workItem from="1582704559691" duration="42000" />
+      <workItem from="1583109647128" duration="10738000" />
+      <workItem from="1583147628923" duration="3452000" />
+      <workItem from="1583198245205" duration="712000" />
+      <workItem from="1583205787366" duration="1658000" />
+      <workItem from="1583294700735" duration="199000" />
+      <workItem from="1583297432417" duration="8592000" />
+      <workItem from="1583308849094" duration="1716000" />
+      <workItem from="1583324162625" duration="2152000" />
+      <workItem from="1583366785215" duration="53000" />
+      <workItem from="1583371064665" duration="1490000" />
+      <workItem from="1583373632051" duration="37000" />
+      <workItem from="1583378786112" duration="1352000" />
+      <workItem from="1583380755178" duration="126000" />
+      <workItem from="1583675765014" duration="38000" />
+      <workItem from="1583681180458" duration="211000" />
+      <workItem from="1583761149452" duration="4000" />
+      <workItem from="1583798291870" duration="34000" />
+      <workItem from="1583846782860" duration="683000" />
+      <workItem from="1583887618357" duration="1618000" />
+      <workItem from="1583890349770" duration="173000" />
+      <workItem from="1583912882233" duration="62000" />
+      <workItem from="1583916727782" duration="679000" />
+      <workItem from="1585278936801" duration="1126000" />
+      <workItem from="1587359165149" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="this.response" custom="javax.servlet.http.HttpServletResponse" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
